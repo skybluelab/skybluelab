@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello World;👋
+게임 개발 관심 있는 한 학생입니다. 
+
 
 <!--
 **skybluelab/skybluelab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
